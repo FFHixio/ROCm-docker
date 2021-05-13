@@ -7,7 +7,7 @@
 
 # This kfd has only been tested so far on linux-headers-generic-lts-vivid
 # ubuntu:14.04.3, the native kernel is '3.19'
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 MAINTAINER Kent Knox <kent.knox@amd>
 
 # Default to a login shell
